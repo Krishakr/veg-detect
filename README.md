@@ -6,7 +6,6 @@ It uses supervised learning. Which means you label the data you collect. This is
 It uses a transfer-learning model with a backbone of MobileVet2. This is for image classification, depending on what you classify your model will change.
 
 The AI models it uses is Yolo-Pro and FOMO 
-  FOMO:
   - Stands for faster objects more objects
   - Most  models spend a lot  of computing power trying to figure out the exact height and width of a image
   - Fomo cuts the image into a grid
